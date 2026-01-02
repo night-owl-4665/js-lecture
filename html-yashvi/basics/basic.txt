@@ -1,0 +1,13 @@
+- HTML is a hyper tax marcup language
+which help us to create base of web page
+- case sensitive nathi -> means we can write capital and small both
+
+-> tags  => using tag browser know how to respond
+- self closing tags
+<hr/>
+
+- opening and closing tags
+<h1></h1>
+
+
+<h1 style="">Hello world</h1>
