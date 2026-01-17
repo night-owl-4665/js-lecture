@@ -1,0 +1,55 @@
+.containere_1{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    /* padding: 10px; */
+    /* padding-left: 20px; */
+    /* padding-top: 5px; */
+    /* padding: 10px 30px; */
+    /* padding: 10px 20px 40px 50px; */
+}
+
+.containere_1_child{
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+}
+
+.containere_2{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+.containere_2_child{
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+}
+
+.containere_5{
+    height: 200px;
+    background-color: red;
+    /* overflow: hidden; */
+    /* overflow: auto; */
+    /* overflow: scroll; */
+    overflow-x: auto;
+    overflow-y: scroll;
+}
+
+
+.containere_3{
+    width: 100px;
+    height: 100px;
+    /* border: 1px solid black; */
+    background-color: red;
+}
+
+
+.containere_4{
+    width: 100px;
+    height: 100px;
+    border: 10px solid black;
+    box-sizing: border-box;
+}

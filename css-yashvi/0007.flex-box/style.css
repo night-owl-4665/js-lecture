@@ -1,8 +1,13 @@
 .containere_1 {
   background-color: lightgray;
   display: flex;
-  flex-direction: row-reverse;
-  justify-content: space-between;
+  /* gap: 10px; */
+  
+  /* flex-direction: row-reverse; */
+  /* justify-content: center; */
+
+  /* flex-direction: row-reverse; */
+  /* justify-content: space-between; */
   /* justify-content: space-around; */
   /* justify-content: center; */
   /* justify-content: space-evenly; */
@@ -10,12 +15,14 @@
   /* align-items: center; */
   /* align-items: start; */
   /* align-items: end; */
+  flex-wrap: wrap;
 }
 
 .containere_1_child {
+  
   border: 1px solid black;
   height: 50px;
-  width: 50px;
+  width: 200px;
   display: flex;
   justify-content: center;
   align-items: center;
